@@ -1,0 +1,11 @@
+{
+    "firstname": "Jim",
+    "lastname": "Ericsson",
+    "totalprice": 322,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2018-12-24",
+        "checkout": "2020-01-24"
+    },
+    "additionalneeds": "Breakfast"
+}
